@@ -3,7 +3,7 @@
 
 ## I'm a Software Development Student from the Netherlands!!
 
-- 🌱 I’m currently trying to become better at Javascript
+- 🌱 I’m currently trying to become better at Java
 - ⚡ Fun fact: I like dogs
 
 ### Connect with me:
