@@ -9,7 +9,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Aaron's Github Stat's" src="https://github-readme-stats-git-master.boostioaaron.vercel.app/api?username=boostioaaron&show_icons=true&hide_border=true" />
+  <img align="left" alt="Aaron's Github Stat's" src="https://github-readme-stats-git-master.boostioaaron.vercel.app/api?username=BoostioAaron&show_icons=true&hide_border=true" />
 
 </details>
 
