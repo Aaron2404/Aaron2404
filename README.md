@@ -6,10 +6,6 @@
 - 🌱 I’m currently trying to become better at Java
 - ⚡ Fun fact: I like dogs
 
-<br />
-<br />
----
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
